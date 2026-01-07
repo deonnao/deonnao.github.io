@@ -30,3 +30,8 @@ Awards and Honors
 - Google Conference Scholar (BDPA; Blacks in Technology)
 
 - 1st Place, University of Alabama Innovate Hackathon
+
+About Me
+======
+
+Outside of my academic work, I enjoy traveling and exploring new cultures, particularly through cooking and trying cuisines from different regions. I am an avid consumer of murder-mystery media and have a broad interest in music, including learning piano as a novice player. Beyond personal hobbies, I am deeply interested in education reform and initiatives aimed at increasing representation and access in STEM fields.
