@@ -1,9 +1,9 @@
 ---
 title: "A Multi-LLM Debiasing Framework"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2025-09-12-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'Proposes a multi-LLM framework that reduces social bias by aggregating outputs from diverse language models, outperforming single-model baselines on bias benchmarks.'
 date: 2025-09-12
 venue: 'Recent Advancements in Natural Language Processing'
 paperurl: 'https://deonnao.github.io/files/A_multi_llm_debiasing_framework.pdf'
