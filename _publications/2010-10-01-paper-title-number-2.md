@@ -1,14 +1,17 @@
 ---
-title: "Paper Title Number 2"
+title: "Self-debiasing Large Language Models: Zero-shot Recognition
+and Reduction of Stereotypes"
 collection: publications
-category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
-paperurl: 'https://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+category: conferences
+permalink: /publication/2025-04-29-self-debiasing
+excerpt: 'The goal of this paper is to develop a zero-shot method for identifying and reducing stereotypical biases in large language models without requiring additional training or fine-tuning.'
+date: 2025-04-29
+venue: 'Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL)'
+paperurl: 'https://deonnao.github.io/files/self_debiasing.pdf'
+citation: 'Gallegos, I. O., Aponte, R., Rossi, R. A., Barrow, J., Tanjim, M., Yu, T., Deilamsalehy, H., Zhang, R., Kim, S.,
+Dernoncourt, F., Lipka, N., Owens, D., & Gu, J. (2025). Self-debiasing large language models: Zero-shot recognition
+and reduction of stereotypes. In Proceedings of the 2025 Conference of the North American Chapter of the
+Association for Computational Linguistics: Human Language Technologies (Volume 2: Short Papers) (pp. 873–888).
+Albuquerque, NM: Association for Computational Linguistics.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
